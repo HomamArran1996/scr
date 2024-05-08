@@ -647,5 +647,3 @@ is_root
 check_vz
 updatePackages
 install_sc
-
-//123456

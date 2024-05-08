@@ -1,7 +1,6 @@
 #!/bin/bash
 clear
 sleep 1
-123456
 Green="\e[92;1m"
 RED="\033[31m"
 YELLOW="\033[33m"
